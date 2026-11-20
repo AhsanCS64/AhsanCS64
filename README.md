@@ -147,7 +147,7 @@ Building reliable, useful AI-powered applications, strengthening the fundamental
 
 ### Explore my work
 
-[**Portfolio**](https://YOUR-PORTFOLIO-URL) · [**Repositories**](https://github.com/YOUR-USERNAME?tab=repositories) · [**Competitive Programming**](https://YOUR-CP-PROFILE-URL)
+[**Portfolio**](https://ahsanhabibkushal.vercel.app/) · [**Repositories**](https://github.com/AhsanCS64?tab=repositories) · [**Competitive Programming**](https://judge.beecrowd.com/en/questions/user/790377)
 
 <br>
 
