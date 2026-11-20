@@ -2,7 +2,7 @@
 
 # H. M. Ahsan Habib Kushal
 
-### Software Engineering · Machine Learning · Deep Learning
+### Machine Learning · Software Engineering · Deep Learning
 
 *Archmage — Curiosity → Knowledge → Understanding → Mastery*
 
