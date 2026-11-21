@@ -72,7 +72,7 @@ I build and deploy practical software systems, explore machine learning and deep
   </tr>
 </table>
 
-**🔗 Live projects:** [CTRx](https://ctrx-chi.vercel.app/) · [KhamarBari](https://YOUR-KHAMARBARI-URL) ·  [CMRx](https://cmrx.rf.gd/cmrx/Homepage.php?i=1) · [Portfolio](https://YOUR-PORTFOLIO-URL)
+**🔗 Live projects:** [CTRx](https://ctrx-chi.vercel.app/) · [KhamarBari](https://khamar-bari-v2-rho.vercel.app/) · [HeadlineGuard BD](https://headlineguardbd.streamlit.app/) · [CMRx](https://cmrx.rf.gd/cmrx/Homepage.php?i=1) · [Portfolio](https://ahsanhabibkushal.vercel.app/)
 
 ---
 
