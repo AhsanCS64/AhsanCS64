@@ -25,7 +25,7 @@ I build and deploy practical software systems, explore machine learning and deep
 
 | | |
 |---|---|
-| 🎯 **Interests** | Applied AI/ML, deep learning, NLP, software engineering, data-driven products |
+| 🎯 **Interests** | Applied AI/ML, deep learning, Image Processing, NLP, software engineering, data-driven products |
 | 🔭 **Currently exploring** | Contrastive Learning, Robust Bangla NLP and end-to-end ML experimentation |
 | 🧩 **Outside the code** | Competitive programming, technical learning, science community activities |
 | 🪄 **Alias** | *Archmage* — a nod to curiosity, hidden knowledge, and mastery |
