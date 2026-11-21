@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:196C2E,100:39D353&height=190&section=header&text=Ahsan%20Habib%20Kushal&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Archmage%20%C2%B7%20Curiosity%20%E2%86%92%20Knowledge%20%E2%86%92%20Understanding%20%E2%86%92%20Mastery&descSize=15&descAlignY=58&animation=fadeIn" alt="Header: Ahsan Habib Kushal — Archmage" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:196C2E,100:39D353&height=200&section=header&text=ARCHMAGE&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Where%20curiosity%20becomes%20mastery&descSize=18&descAlignY=62&animation=fadeIn" alt="Header: ARCHMAGE — where curiosity becomes mastery" width="100%" />
 
 <img src="./Kushal%20Portfolio%20Banner.png" alt="H. M. Ahsan Habib Kushal — AI, Deep Learning and Software Engineering" width="100%" />
 
