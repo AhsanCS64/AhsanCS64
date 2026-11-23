@@ -28,7 +28,7 @@
 <sub>
 <a href="#-about-me">About</a> ·
 <a href="#-focus-areas">Focus</a> ·
-<a href="#research">Research</a> ·
+<a href="#-research">Research</a> ·
 <a href="#-featured-projects">Projects</a> ·
 <a href="#%EF%B8%8F-technical-toolkit">Toolkit</a> ·
 <a href="#-github-activity">Activity</a> ·
@@ -43,7 +43,17 @@
 
 I'm a Computer Science and Engineering undergraduate at the National Institute of Textile Engineering and Research (NITER), University of Dhaka, with a CGPA of 3.76 / 4.00.
 
-I build machine learning applications and study how models learn from text and images. In HeadlineGuard BD, I compare models for Bangla headlines. In my medical vision-language work, I’m exploring how contrastive learning connects chest radiographs with the words in their reports.
+I build and deploy practical software systems, explore deep learning and applied AI, and enjoy turning messy, real-world problems into useful solutions. My work spans full-stack engineering, backend systems, relational databases, and natural language processing.
+
+class Archmage:
+    name    = "H. M. Ahsan Habib Kushal"
+    school  = "NITER, University of Dhaka"
+    focus   = ["Deep Learning", "Contrastive Learning", "Image Processing", "NLP", "Software Engineering"]
+    beyond  = ["Competitive Programming", "Science Community", "Technical Learning"]
+    path    = "Curiosity → Knowledge → Understanding → Mastery"
+
+    def today(self):
+        return "Learning the theory. Engineering the solution."
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1300&color=3FB950&center=true&vCenter=true&repeat=true&width=820&height=38&lines=Building+intelligent+systems+with+real-world+impact...;Learning+the+theory.+Engineering+the+solution.;From+research+notebooks+to+deployed+applications." alt="Animated personal philosophy" />
@@ -81,7 +91,7 @@ Production-minded Engineering
 
 APIs, relational data modelling and migrations that hold up in the real world
 
-Research
+🔬 Research
 
 I completed an initial GLoRIA implementation on Kaggle after reading the paper. My focus is how the model aligns an entire image with its report and individual image regions with report words. Kaggle run · GLoRIA implementation
 
@@ -107,35 +117,89 @@ BioViL, CheXzero, LoVT, CXR-CLIP, KAD
 
 🚀 Featured Projects
 
-Project
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 MindScope</h3>
+      <sub><b>Explainable ML · Web application</b></sub><br/><br/>
+      Explore student survey profiles with five XGBoost models and see how individual inputs shape each prediction through SHAP explanations.<br/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-196C2E?style=flat-square" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/SHAP-7356BF?style=flat-square" alt="SHAP" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" /><br/><br/>
+      <a href="https://mind-scope-tau.vercel.app/#overview">Live demo</a> · <a href="https://github.com/AhsanCS64/MindScope">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 GameSense</h3>
+      <sub><b>Recommendation systems · Games</b></sub><br/><br/>
+      Find games based on one favorite or a combination of titles you already enjoy.<br/><br/>
+      <img src="https://img.shields.io/badge/Recommendations-196C2E?style=flat-square" alt="Recommendations" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 HeadlineGuard BD</h3>
+      <sub><b>Research · NLP</b></sub><br/><br/>
+      Bangla <b>clickbait detection</b> comparing classical ML, recurrent networks and <b>BanglaBERT</b>, with validation macro F1 of <b>0.8032</b> for BanglaBERT and <b>0.7786</b> for the linear SVM.<br/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
 
-What I built
+</td>
+<td width="50%" valign="top">
+  <h3>🏠 CTRx — Central Tenant Records</h3>
+  <sub><b>Backend · Trust &amp; Transparency</b></sub><br/><br/>
+  Household Rental Identity Certificates, verified payments and dispute workflows for tenants, landlords and government reviewers.<br/><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-555555?style=flat-square" alt="Alembic" />
 
-MindScope
+</td>
 
-Explore student survey data, try hypothetical profiles and see how each input contributes to the predicted survey label. Built with five XGBoost models, SHAP, FastAPI and React/TypeScript. Live demo · Source
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐄 KhamarBari</h3>
+      <sub><b>Full-Stack · Agri-Tech</b></sub><br/><br/>
+      Industrial-scale <b>farm management</b> covering livestock, poultry, fisheries, workforce, expenses, orders and production.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/><br/>
+      <a href="https://khamar-bari-v2-rho.vercel.app/">Live demo</a> · <a href="https://github.com/AhsanCS64/KhamarBari_v2">Source</a>
 
-HeadlineGuard BD
+</td>
+<td width="50%" valign="top">
+  <h3>💧 LYKORA <sup>Concept</sup></h3>
+  <sub><b>Sustainability · Applied AI</b></sub><br/><br/>
+  <b>Water intelligence</b> for the garment industry, including ETP monitoring and anomaly detection.<br/><br/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-0B3D2E?style=flat-square" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-0B3D2E?style=flat-square" alt="Anomaly Detection" />
+  <img src="https://img.shields.io/badge/Sustainability-0B3D2E?style=flat-square" alt="Sustainability" />
+</td>
 
-Compared character TF-IDF, BiLSTM with FastText and BanglaBERT for Bangla clickbait detection. BanglaBERT reached 0.8032 validation macro F1, compared with 0.7786 for the linear SVM.
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 CMRx — Central Medical Records</h3>
+      <sub><b>Web · Healthcare</b></sub><br/><br/>
+      <b>Medical records</b> management and disease tracking.<br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br/><br/>
+      <a href="https://cmrx.rf.gd/cmrx/Homepage.php">Live demo</a>
 
-GameSense
+</td>
+<td width="50%" valign="top">
+  <h3>🏭 FACTIV</h3>
+  <sub><b>Web · Industry</b></sub><br/><br/>
+  <b>Garment-factory management</b> with role-based operational modules.<br/><br/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 
-Recommends games from a single favorite or a set of games a player already likes.
+</td>
 
-CTRx — Central Tenant Records
-
-Connects tenants, landlords and government reviewers through household Rental Identity Certificates, verified payment records and dispute workflows. Built with React, FastAPI and PostgreSQL.
-
-KhamarBari
-
-Tracks livestock, poultry, fisheries, production and expenses across farm branches. Built with React, Express and MongoDB. Live demo · Source
-
-CMRx — Central Medical Records
-
-A PHP and MySQL application for medical record management and disease tracking. Live demo
-
-Other work includes FACTIV, a role-based garment factory management application, and LYKORA, a concept for monitoring water treatment in garment manufacturing.
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/AhsanCS64?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0B3D2E?style=for-the-badge&logo=github&logoColor=39D353" alt="Explore all repositories" /></a>
