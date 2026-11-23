@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:196C2E,100:39D353&height=230&section=header&text=ARCHMAGE&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Where%20curiosity%20becomes%20mastery&descSize=18&descAlignY=60&animation=fadeIn" alt="Header: ARCHMAGE — where curiosity becomes mastery" width="100%" />
 
 <!-- Make sure this file is committed to the repo root. Tip: rename it without spaces, e.g. portfolio-banner.png -->
-
 <img src="./Kushal%20Portfolio%20Banner.png" alt="H. M. Ahsan Habib Kushal — AI, Deep Learning and Software Engineering" width="100%" />
 
 <a href="https://git.io/typing-svg">
@@ -45,7 +44,7 @@
     <td align="center" width="150"><h2>3.76</h2><sub><b>CGPA / 4.00</b></sub></td>
     <td align="center" width="150"><h2>2nd</h2><sub><b>in class</b></sub></td>
     <td align="center" width="150"><h2>4th</h2><sub><b>BAIC 2025</b></sub></td>
-    <td align="center" width="150"><h2>8</h2><sub><b>featured projects</b></sub></td>
+    <td align="center" width="150"><h2>8</h2><sub><b>projects shipped</b></sub></td>
     <td align="center" width="150"><h2>8</h2><sub><b>papers read</b></sub></td>
     <td align="center" width="150"><h2>4</h2><sub><b>certifications</b></sub></td>
   </tr>
@@ -55,12 +54,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-👋 About Me
+## 👋 About Me
 
-I'm a Computer Science and Engineering undergraduate at the National Institute of Textile Engineering and Research (NITER), University of Dhaka, with a CGPA of 3.76 / 4.00.
+I'm a Computer Science and Engineering undergraduate at the **National Institute of Textile Engineering and Research (NITER), University of Dhaka**, with a CGPA of **3.76 / 4.00**.
 
-I build machine learning applications and the systems around them. My work spans Bangla NLP, medical image–text representation learning, and full-stack engineering. In HeadlineGuard BD, I compare a character-based baseline with BanglaBERT and check for repeated headlines across dataset splits.
+I build and deploy practical software systems, explore deep learning and applied AI, and enjoy turning messy, real-world problems into useful solutions. My work spans full-stack engineering, backend systems, relational databases, and natural language processing.
 
+```python
 from dataclasses import dataclass, field
 
 
@@ -69,7 +69,7 @@ class Archmage:
     name: str = "H. M. Ahsan Habib Kushal"
     school: str = "NITER, University of Dhaka"
     focus: list = field(default_factory=lambda: [
-        "Deep Learning", "Contrastive Learning", "Image Processing", "NLP", "Software Engineering",
+        "Deep Learning", "Applied AI/ML", "NLP", "Software Engineering",
     ])
     beyond: list = field(default_factory=lambda: [
         "Competitive Programming", "Science Community", "Technical Learning",
@@ -78,6 +78,7 @@ class Archmage:
 
     def today(self) -> str:
         return "Learning the theory. Engineering the solution."
+```
 
 <table>
 <tr><td>🔭 <b>Working on</b></td><td>Medical vision-language learning (GLoRIA) and robust Bangla NLP</td></tr>
@@ -94,7 +95,7 @@ class Archmage:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🔭 Focus Areas
+## 🔭 Focus Areas
 
 <table>
 <tr>
@@ -107,9 +108,9 @@ class Archmage:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🧠 AI & Machine Learning
+### 🧠 AI & Machine Learning
 
 <table>
   <tr>
@@ -117,7 +118,8 @@ class Archmage:
       <h3>🔬 HeadlineGuard BD <sup>Flagship</sup></h3>
       <sub><b>Research · NLP · Deployed</b></sub><br/><br/>
       Bangla <b>clickbait detection</b> comparing classical ML, recurrent networks and <b>BanglaBERT</b>. Validation macro F1 on the same split:
-      <p><b>BanglaBERT 0.8032</b> · <b>Linear SVM 0.7786</b></p>
+      <pre>BanglaBERT  ████████████████░░░░  0.8032
+Linear SVM  ███████████████▌░░░░  0.7786</pre>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
@@ -161,14 +163,14 @@ class Archmage:
   </tr>
 </table>
 
-🏗️ Full-Stack & Systems
+### 🏗️ Full-Stack & Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏠 CTRx — Central Tenancy Records</h3>
       <sub><b>Backend · Trust &amp; Transparency</b></sub><br/><br/>
-      A rental platform for Bangladesh with <b>household identity verification</b>, tenancy records, two-party payment confirmation, and dispute workflows.<br/><br/>
+      Verifiable <b>rental histories</b> that build transparency and trust between tenants and landlords.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
@@ -203,6 +205,7 @@ class Archmage:
       <b>Garment-factory management</b> with role-based operational modules.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <!-- TODO: add <br/><br/><a href="REPO_OR_DEMO_URL">…</a> -->
     </td>
   </tr>
 </table>
@@ -215,15 +218,38 @@ class Archmage:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🔬 Current Research
+## 🔬 Current Research
 
-GLoRIA · Medical vision-language learning
+### GLoRIA · Medical vision-language learning
 
-I completed an initial Kaggle implementation of GLoRIA to study how chest radiographs align with reports at two levels: the whole image and report, and individual image regions and words.
+I completed an initial Kaggle implementation of **GLoRIA** to study how chest radiographs align with reports at two levels: the whole image and report, and individual image regions and words.
 
-📓 Kaggle run · 💻 GLoRIA source
+<!-- TODO: add your Kaggle notebook link here -->
+📓 Kaggle run · 💻 [GLoRIA source](https://github.com/marshuang80/gloria)
 
-Reading progress
+My reading path, from contrastive foundations to medical vision-language pre-training:
+
+```mermaid
+flowchart LR
+    subgraph fnd["Foundations · read"]
+        direction LR
+        A[FaceNet] --> B[SimCLR] --> C[SimCSE] --> D[MoCo] --> E[BYOL] --> F[SimSiam] --> G[CLIP]
+    end
+    subgraph med["Medical vision-language"]
+        direction LR
+        H["GLoRIA<br/>implemented"] --> I["MedCLIP<br/>next"] --> J["BioViL · CheXzero<br/>LoVT · CXR-CLIP · KAD"]
+    end
+    G --> H
+
+    classDef done fill:#196C2E,stroke:#39D353,color:#ffffff;
+    classDef impl fill:#39D353,stroke:#0B3D2E,color:#0B3D2E,font-weight:bold;
+    classDef next fill:#0B3D2E,stroke:#39D353,color:#ffffff,stroke-dasharray:4 3;
+    classDef future fill:#161B22,stroke:#30363D,color:#C9D1D9,stroke-dasharray:2 4;
+    class A,B,C,D,E,F,G done;
+    class H impl;
+    class I next;
+    class J future;
+```
 
 <table>
 <tr><th align="left">Status</th><th align="left">Papers</th></tr>
@@ -235,7 +261,7 @@ Reading progress
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
 <table>
 <tr>
@@ -258,7 +284,7 @@ Reading progress
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -289,7 +315,7 @@ Reading progress
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🎓 Education & Achievements
+## 🎓 Education & Achievements
 
 <table>
 <tr><th align="left">Achievement</th><th align="left">Details</th></tr>
@@ -302,7 +328,7 @@ Reading progress
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-📜 Certifications
+## 📜 Certifications
 
 <table>
 <tr><th align="left">Certification</th><th align="left">Issuer</th><th align="left">Year</th></tr>
@@ -314,25 +340,21 @@ Reading progress
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🌱 What I'm Working Toward
+## 🌱 What I'm Working Toward
 
 Building reliable AI-powered applications, strengthening the fundamentals behind modern machine learning, and contributing to software that solves real-world problems.
 
-Ship full-stack systems across Python, JavaScript and PHP ecosystems
-
-Build a strong ML foundation through structured, project-backed coursework
-
-Deploy MindScope with interactive predictions and SHAP explanations
-
-Explore contrastive learning in depth through end-to-end experiments
-
-Publish rigorous research on robust Bangla NLP
+- [x] Ship full-stack systems across Python, JavaScript and PHP ecosystems
+- [x] Build a strong ML foundation through structured, project-backed coursework
+- [x] Deploy MindScope with interactive predictions and SHAP explanations
+- [ ] Explore contrastive learning in depth through end-to-end experiments
+- [ ] Publish rigorous research on robust Bangla NLP
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm always happy to talk about deep learning, Bangla NLP, software engineering, or competitive programming — and I'm open to collaborations, research projects and internships.
+I'm always happy to talk about deep learning, Bangla NLP, software engineering, or competitive programming — and I'm open to **collaborations, research projects and internships**.
 
 <div align="center">
 
