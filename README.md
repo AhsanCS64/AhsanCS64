@@ -348,7 +348,7 @@ Building reliable AI-powered applications, strengthening the fundamentals behind
 - [x] Build a strong ML foundation through structured, project-backed coursework
 - [x] Deploy MindScope with interactive predictions and SHAP explanations
 - [ ] Explore contrastive learning in depth through end-to-end experiments
-- [ ] Publish rigorous research on robust Bangla NLP
+- [ ] Publish rigorous research on Contrastive Learning, Image Processing, and NLP
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
 
