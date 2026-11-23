@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     H. M. Ahsan Habib Kushal · GitHub profile README
-     Replace the TODO links below with your real repo / profile URLs.
-     ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:196C2E,100:39D353&height=200&section=header&text=ARCHMAGE&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Where%20curiosity%20becomes%20mastery&descSize=18&descAlignY=62&animation=fadeIn" alt="Header: ARCHMAGE — where curiosity becomes mastery" width="100%" />
@@ -33,6 +28,7 @@
 <sub>
 <a href="#-about-me">About</a> ·
 <a href="#-focus-areas">Focus</a> ·
+<a href="#research">Research</a> ·
 <a href="#-featured-projects">Projects</a> ·
 <a href="#%EF%B8%8F-technical-toolkit">Toolkit</a> ·
 <a href="#-github-activity">Activity</a> ·
@@ -43,134 +39,127 @@
 
 </div>
 
----
+👋 About Me
 
-## 👋 About Me
+I'm a Computer Science and Engineering undergraduate at the National Institute of Textile Engineering and Research (NITER), University of Dhaka, with a CGPA of 3.76 / 4.00.
 
-I'm a **Computer Science and Engineering undergraduate** at the **National Institute of Textile Engineering and Research (NITER), University of Dhaka**, with a **CGPA of 3.76 / 4.00**.
-
-I build and deploy practical software systems, explore deep learning and applied AI, and enjoy turning messy, real-world problems into useful solutions. My work spans **full-stack engineering, backend systems, relational databases, and natural language processing**.
-
-```python
-class Archmage:
-    name    = "H. M. Ahsan Habib Kushal"
-    school  = "NITER, University of Dhaka"
-    focus   = ["Deep Learning", "Applied AI/ML", "NLP", "Software Engineering"]
-    beyond  = ["Competitive Programming", "Science Community", "Technical Learning"]
-    path    = "Curiosity → Knowledge → Understanding → Mastery"
-
-    def today(self):
-        return "Learning the theory. Engineering the solution."
-```
+I build machine learning applications and study how models learn from text and images. In HeadlineGuard BD, I compare models for Bangla headlines. In my medical vision-language work, I’m exploring how contrastive learning connects chest radiographs with the words in their reports.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1300&color=3FB950&center=true&vCenter=true&repeat=true&width=820&height=38&lines=Building+intelligent+systems+with+real-world+impact...;Learning+the+theory.+Engineering+the+solution.;From+research+notebooks+to+deployed+applications." alt="Animated personal philosophy" />
 </div>
 
----
+🔭 Focus Areas
 
-## 🔭 Focus Areas
 
-| | Area | What I'm digging into |
-|:-:|---|---|
-| 🧠 | **Contrastive Learning** | Representation learning and how it improves downstream robustness |
-| 🇧🇩 | **Robust Bangla NLP** | Reliable language models and evaluation for Bangla text |
-| 🧪 | **End-to-End ML Experimentation** | Reproducible pipelines, honest baselines and rigorous evaluation |
-| 🏗️ | **Production-minded Engineering** | APIs, relational data modelling and migrations that hold up in the real world |
 
----
+Area
 
-## 🚀 Featured Projects
+What I'm digging into
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 HeadlineGuard BD</h3>
-      <sub><b>Research · NLP</b></sub><br/><br/>
-      Bangla <b>clickbait detection</b> comparing classical ML, recurrent networks and <b>BanglaBERT</b>, with a strong emphasis on rigorous, fair evaluation.<br/><br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-      <!-- TODO: add repo link → <a href="https://github.com/AhsanCS64/REPO_NAME">View repository →</a> -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 CTRx — Central Tenancy Records</h3>
-      <sub><b>Backend · Trust &amp; Transparency</b></sub><br/><br/>
-      Verifiable <b>rental histories</b> that build transparency and trust between tenants and landlords.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/Alembic-555555?style=flat-square" alt="Alembic" />
-      <!-- TODO: add repo link -->
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐄 KhamarBari</h3>
-      <sub><b>Full-Stack · Agri-Tech</b></sub><br/><br/>
-      Industrial-scale <b>farm management</b> covering livestock, poultry, fisheries, workforce, expenses, orders and production.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <!-- TODO: add repo link -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>💧 LYKORA <sup>Concept</sup></h3>
-      <sub><b>Sustainability · Applied AI</b></sub><br/><br/>
-      <b>Water intelligence</b> for the garment industry, including ETP monitoring and anomaly detection.<br/><br/>
-      <img src="https://img.shields.io/badge/Data%20Analytics-0B3D2E?style=flat-square" alt="Data Analytics" />
-      <img src="https://img.shields.io/badge/Anomaly%20Detection-0B3D2E?style=flat-square" alt="Anomaly Detection" />
-      <img src="https://img.shields.io/badge/Sustainability-0B3D2E?style=flat-square" alt="Sustainability" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 CMRx — Central Medical Records</h3>
-      <sub><b>Web · Healthcare</b></sub><br/><br/>
-      <b>Medical records</b> management and disease tracking.<br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <!-- TODO: add repo link -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏭 FACTIV</h3>
-      <sub><b>Web · Industry</b></sub><br/><br/>
-      <b>Garment-factory management</b> with role-based operational modules.<br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <!-- TODO: add repo link -->
-    </td>
-  </tr>
-</table>
+🧠
+
+Contrastive Learning
+
+Representation learning and how it improves downstream robustness
+
+🇧🇩
+
+Robust Bangla NLP
+
+Reliable language models and evaluation for Bangla text
+
+🧪
+
+End-to-End ML Experimentation
+
+Reproducible pipelines, honest baselines and rigorous evaluation
+
+🏗️
+
+Production-minded Engineering
+
+APIs, relational data modelling and migrations that hold up in the real world
+
+Research
+
+I completed an initial GLoRIA implementation on Kaggle after reading the paper. My focus is how the model aligns an entire image with its report and individual image regions with report words. Kaggle run · GLoRIA implementation
+
+Reading progress
+
+Papers
+
+Foundational papers read
+
+FaceNet, SimCLR, SimCSE, MoCo, BYOL, SimSiam, CLIP
+
+Medical vision-language paper read and initially implemented
+
+GLoRIA
+
+Next to read
+
+MedCLIP
+
+Also on my reading list
+
+BioViL, CheXzero, LoVT, CXR-CLIP, KAD
+
+🚀 Featured Projects
+
+Project
+
+What I built
+
+MindScope
+
+Explore student survey data, try hypothetical profiles and see how each input contributes to the predicted survey label. Built with five XGBoost models, SHAP, FastAPI and React/TypeScript. Live demo · Source
+
+HeadlineGuard BD
+
+Compared character TF-IDF, BiLSTM with FastText and BanglaBERT for Bangla clickbait detection. BanglaBERT reached 0.8032 validation macro F1, compared with 0.7786 for the linear SVM.
+
+GameSense
+
+Recommends games from a single favorite or a set of games a player already likes.
+
+CTRx — Central Tenant Records
+
+Connects tenants, landlords and government reviewers through household Rental Identity Certificates, verified payment records and dispute workflows. Built with React, FastAPI and PostgreSQL.
+
+KhamarBari
+
+Tracks livestock, poultry, fisheries, production and expenses across farm branches. Built with React, Express and MongoDB. Live demo · Source
+
+CMRx — Central Medical Records
+
+A PHP and MySQL application for medical record management and disease tracking. Live demo
+
+Other work includes FACTIV, a role-based garment factory management application, and LYKORA, a concept for monitoring water treatment in garment manufacturing.
 
 <div align="center">
   <a href="https://github.com/AhsanCS64?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0B3D2E?style=for-the-badge&logo=github&logoColor=39D353" alt="Explore all repositories" /></a>
 </div>
 
----
-
-## 🛠️ Technical Toolkit
+🛠️ Technical Toolkit
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,php&perline=8" alt="Python, JavaScript, PHP" /> <img src="https://img.shields.io/badge/SQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39D353" alt="SQL" />
+Languages<br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,php&perline=8" alt="Python, JavaScript, TypeScript, PHP" /> <img src="https://img.shields.io/badge/SQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39D353" alt="SQL" />
 
-**AI / Data**<br/>
+AI / Data<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=8" alt="PyTorch, scikit-learn" /> <img src="https://img.shields.io/badge/Transformers-0B3D2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face Transformers" />
 
-**Web / Backend**<br/>
+Web / Backend<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express&perline=8" alt="FastAPI, React, Node.js, Express" />
 
-**Databases / Tools**<br/>
+Databases / Tools<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vercel&perline=8" alt="PostgreSQL, MySQL, MongoDB, Git, GitHub, Vercel" />
 
 </div>
 
----
-
-## 📈 GitHub Activity
+📈 GitHub Activity
 
 <div align="center">
 
@@ -189,46 +178,83 @@ class Archmage:
 
 </div>
 
----
+🎓 Education & Achievements
 
-## 🎓 Education & Achievements
 
-| | |
-|---|---|
-| 🎓 **B.Sc. in Computer Science and Engineering** | National Institute of Textile Engineering and Research (NITER), University of Dhaka |
-| 📊 **CGPA 3.76 / 4.00** | 2nd in class |
-| 🏆 **4th Place — BAIC 2025** | Senior category |
-| 🧪 **Organizing Secretary** | NITER Science Society |
-| 💻 **Deputy Treasurer** | NITER Computer Club |
 
----
 
-## 📜 Certifications
 
-| Certification | Issuer | Year |
-|---|---|:-:|
-| 🧠 **Deep Learning Specialization** | DeepLearning.AI · Andrew Ng | 2026 |
-| 🤖 **Machine Learning Specialization** | DeepLearning.AI · Andrew Ng | 2026 |
-| 🔥 **PyTorch Professional Certificate** | DeepLearning.AI | 2026 |
-| 📊 **IBM Data Science Professional Certificate** | IBM | 2026 |
+🎓 B.Sc. in Computer Science and Engineering
 
----
+National Institute of Textile Engineering and Research (NITER), University of Dhaka
 
-## 🌱 What I'm Working Toward
+📊 CGPA 3.76 / 4.00
 
-> Building **reliable AI-powered applications**, strengthening the **fundamentals behind modern machine learning**, and contributing to software that solves real-world problems.
+2nd in class
 
-- [x] Ship full-stack systems across Python, JavaScript and PHP ecosystems
-- [x] Build a strong ML foundation through structured, project-backed coursework
-- [ ] Publish rigorous research on robust Bangla NLP
-- [ ] Explore contrastive learning in depth through end-to-end experiments
-- [ ] Deploy AI-powered applications that real users depend on
+🏆 4th Place — BAIC 2025
 
----
+Senior category
 
-## 🤝 Let's Connect
+🧪 Organizing Secretary
 
-I'm always happy to talk about **deep learning, Bangla NLP, software engineering, or competitive programming** — and I'm open to collaborations, research projects and internships.
+NITER Science Society
+
+💻 Deputy Treasurer
+
+NITER Computer Club
+
+📜 Certifications
+
+Certification
+
+Issuer
+
+Year
+
+🧠 Deep Learning Specialization
+
+DeepLearning.AI · Andrew Ng
+
+2026
+
+🤖 Machine Learning Specialization
+
+DeepLearning.AI · Andrew Ng
+
+2026
+
+🔥 PyTorch Professional Certificate
+
+DeepLearning.AI
+
+2026
+
+📊 IBM Data Science Professional Certificate
+
+IBM
+
+2026
+
+🌱 What I'm Working Toward
+
+Building reliable AI-powered applications, strengthening the fundamentals behind modern machine learning, and contributing to software that solves real-world problems.
+
+Ship full-stack systems across Python, JavaScript and PHP ecosystems
+
+Build a strong ML foundation through structured, project-backed coursework
+
+Publish rigorous research on robust Bangla NLP
+
+Complete an initial GLoRIA implementation on Kaggle
+
+Read MedCLIP and compare its training approach with GLoRIA
+
+Deploy MindScope with model predictions and SHAP explanations
+
+🤝 Let's Connect
+
+I'm always happy to talk about deep learning, Bangla NLP, software engineering, or competitive programming — and I'm open to collaborations, research projects and internships.
 
 <div align="center">
 
@@ -242,7 +268,6 @@ I'm always happy to talk about **deep learning, Bangla NLP, software engineering
 <a href="https://ahsanhabibkushal.vercel.app/">Portfolio</a> ·
 <a href="https://github.com/AhsanCS64?tab=repositories">Repositories</a> ·
 <a href="https://huggingface.co/Archmage64">Hugging Face</a>
-<!-- TODO: add your Codeforces / competitive programming profile link here -->
 
 <sub>Made with curiosity, code, and a little magic. 🪄</sub>
 
