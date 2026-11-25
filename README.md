@@ -14,7 +14,7 @@
 <a href="https://ahsanhabibkushal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B3D2E?style=for-the-badge&logo=googlechrome&logoColor=39D353" alt="Portfolio" /></a>
 <a href="https://github.com/AhsanCS64"><img src="https://img.shields.io/badge/GitHub-0B3D2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://huggingface.co/Archmage64"><img src="https://img.shields.io/badge/Hugging%20Face-0B3D2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahsanhabibkushal/"><img src="https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ahsanhabibkushal/"><img src="https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <a href="mailto:kushalahsan@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D2E?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br/>
