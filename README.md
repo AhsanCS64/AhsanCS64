@@ -14,7 +14,7 @@
 <a href="https://ahsanhabibkushal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B3D2E?style=for-the-badge&logo=googlechrome&logoColor=39D353" alt="Portfolio" /></a>
 <a href="https://github.com/AhsanCS64"><img src="https://img.shields.io/badge/GitHub-0B3D2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://huggingface.co/Archmage64"><img src="https://img.shields.io/badge/Hugging%20Face-0B3D2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
-<a href="https://www.linkedin.com/in/ahsanhabibkushal/"><img src="https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/h-m-ahsan-habib-kushal-0263731a1/"><img src="https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <a href="mailto:kushalahsan@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D2E?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br/>
@@ -44,9 +44,9 @@
     <td align="center" width="150"><h2>3.76</h2><sub><b>CGPA / 4.00</b></sub></td>
     <td align="center" width="150"><h2>2nd</h2><sub><b>in class</b></sub></td>
     <td align="center" width="150"><h2>4th</h2><sub><b>BAIC 2025</b></sub></td>
-    <td align="center" width="150"><h2>8</h2><sub><b>projects shipped</b></sub></td>
+    <td align="center" width="150"><h2>10+</h2><sub><b>projects &amp; prototypes</b></sub></td>
     <td align="center" width="150"><h2>8</h2><sub><b>papers read</b></sub></td>
-    <td align="center" width="150"><h2>4</h2><sub><b>certifications</b></sub></td>
+    <td align="center" width="150"><h2>4</h2><sub><b>major credentials</b></sub></td>
   </tr>
 </table>
 
@@ -58,7 +58,7 @@
 
 I'm a Computer Science and Engineering undergraduate at the **National Institute of Textile Engineering and Research (NITER), University of Dhaka**, with a CGPA of **3.76 / 4.00**.
 
-I build and deploy practical software systems, explore deep learning and applied AI, and enjoy turning messy, real-world problems into useful solutions. My work spans full-stack engineering, backend systems, relational databases, and natural language processing.
+I build and deploy practical software systems, explore deep learning and applied AI, and enjoy turning messy, real-world problems into useful solutions. My work spans full-stack engineering, backend systems, relational databases, natural language processing, computer vision, recommendation systems, and CPU-friendly model deployment. I am currently in my final year, with thesis work focused on medical vision-language learning.
 
 ```python
 from dataclasses import dataclass, field
@@ -69,7 +69,8 @@ class Archmage:
     name: str = "H. M. Ahsan Habib Kushal"
     school: str = "NITER, University of Dhaka"
     focus: list = field(default_factory=lambda: [
-        "Deep Learning", "Applied AI/ML", "NLP", "Software Engineering",
+        "Deep Learning", "Applied AI/ML", "NLP",
+        "Computer Vision", "Software Engineering",
     ])
     beyond: list = field(default_factory=lambda: [
         "Competitive Programming", "Science Community", "Technical Learning",
@@ -81,7 +82,7 @@ class Archmage:
 ```
 
 <table>
-<tr><td>🔭 <b>Working on</b></td><td>Medical vision-language learning (GLoRIA) and robust Bangla NLP</td></tr>
+<tr><td>🔭 <b>Working on</b></td><td>Medical vision-language learning and semester studies</td></tr>
 <tr><td>🌱 <b>Reading next</b></td><td>MedCLIP</td></tr>
 <tr><td>💬 <b>Ask me about</b></td><td>Deep learning, Bangla NLP, full-stack engineering, competitive programming</td></tr>
 <tr><td>📫 <b>Reach me</b></td><td><a href="mailto:kushalahsan@gmail.com">kushalahsan@gmail.com</a></td></tr>
@@ -152,6 +153,22 @@ Linear SVM  ███████████████▌░░░░  0.7786
     </td>
   </tr>
   <tr>
+<td width="50%" valign="top">
+<h3>🍲 Scarlet Dish</h3>
+<sub><b>Recipe Retrieval · Applied ML</b></sub><br/><br/>
+Ingredient- and season-aware recipe discovery from nearly 10,000 South Asian recipes, semantic recipe similarity, and rule-based adaptation across seven target cuisines.<br/><br/>
+<img src="https://img.shields.io/badge/Python-0B3D2E?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Embeddings-0B3D2E?style=flat-square" alt="Embeddings" /> <img src="https://img.shields.io/badge/Streamlit-0B3D2E?style=flat-square" alt="Streamlit" /><br/><br/>
+<a href="https://scarlet-dish.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0B3D2E?style=flat-square&logo=streamlit&logoColor=39D353" alt="Live%20Demo" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🍚 Detective Rice!</h3>
+<sub><b>Computer Vision · Image Classification</b></sub><br/><br/>
+Identifies Bangladeshi rice varieties from close-up images of individual uncooked grains. Provides top-three predictions and supports PyTorch and ONNX Runtime inference.<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-0B3D2E?style=flat-square" alt="PyTorch" /> <img src="https://img.shields.io/badge/ONNX%20Runtime-0B3D2E?style=flat-square" alt="ONNX Runtime" /> <img src="https://img.shields.io/badge/Streamlit-0B3D2E?style=flat-square" alt="Streamlit" /><br/><br/>
+<a href="https://detective-rice.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0B3D2E?style=flat-square&logo=streamlit&logoColor=39D353" alt="Live%20Demo" /></a> <a href="https://github.com/AhsanCS64/Detective-Rice"><img src="https://img.shields.io/badge/Source-0B3D2E?style=flat-square&logo=github&logoColor=39D353" alt="Source" /></a>
+</td>
+  </tr>
+  <tr>
     <td colspan="2" valign="top">
       <h3>💧 LYKORA <sup>Concept</sup></h3>
       <sub><b>Sustainability · Applied AI</b></sub><br/><br/>
@@ -198,6 +215,7 @@ Linear SVM  ███████████████▌░░░░  0.7786
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br/><br/>
       <a href="https://cmrx.rf.gd/cmrx/Homepage.php"><img src="https://img.shields.io/badge/Live%20Demo-0B3D2E?style=flat-square&logo=googlechrome&logoColor=39D353" alt="Live demo" /></a>
+      <a href="https://github.com/AhsanCS64/cmrx"><img src="https://img.shields.io/badge/Source-0B3D2E?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏭 FACTIV</h3>
@@ -208,6 +226,27 @@ Linear SVM  ███████████████▌░░░░  0.7786
       <!-- TODO: add <br/><br/><a href="REPO_OR_DEMO_URL">…</a> -->
     </td>
   </tr>
+</table>
+
+### 🧰 Open-Source Utilities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📄 ImageHater</h3>
+<sub><b>Desktop Utility · Image Processing</b></sub><br/><br/>
+Open-source document scanning utility with automatic corner detection, perspective correction, image cleanup and multi-page PDF export.<br/><br/>
+<img src="https://img.shields.io/badge/Python-0B3D2E?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-0B3D2E?style=flat-square" alt="OpenCV" /> <img src="https://img.shields.io/badge/PyInstaller-0B3D2E?style=flat-square" alt="PyInstaller" /><br/><br/>
+<a href="https://github.com/AhsanCS64/ImageHater"><img src="https://img.shields.io/badge/Source-0B3D2E?style=flat-square&logo=github&logoColor=39D353" alt="Source" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 Time Zone Meeting Planner</h3>
+<sub><b>Desktop Utility · Scheduling</b></sub><br/><br/>
+Finds overlapping working hours across time zones using Python zoneinfo, with an interactive interface.<br/><br/>
+<img src="https://img.shields.io/badge/Python-0B3D2E?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/zoneinfo-0B3D2E?style=flat-square" alt="zoneinfo" /><br/><br/>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -224,8 +263,9 @@ Linear SVM  ███████████████▌░░░░  0.7786
 
 I completed an initial Kaggle implementation of **GLoRIA** to study how chest radiographs align with reports at two levels: the whole image and report, and individual image regions and words.
 
-<!-- TODO: add your Kaggle notebook link here -->
-📓 Kaggle run · 💻 [GLoRIA source](https://github.com/marshuang80/gloria)
+Research implementation reference: 💻 [GLoRIA source](https://github.com/marshuang80/gloria)
+
+My thesis direction is to reproduce and study two to three medical vision-language methods, guided by the [Awesome CLIP in Medical Imaging survey and repository](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging).
 
 My reading path, from contrastive foundations to medical vision-language pre-training:
 
@@ -266,11 +306,11 @@ flowchart LR
 <table>
 <tr>
   <td width="20%"><b>💻 Languages</b></td>
-  <td><img src="https://skillicons.dev/icons?i=py,js,ts,php&perline=8" alt="Python, JavaScript, TypeScript, PHP" /> <img src="https://img.shields.io/badge/SQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39D353" alt="SQL" /></td>
+  <td><img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts,php&perline=8" alt="Python, Java, C++, C, JavaScript, TypeScript, PHP" /> <img src="https://img.shields.io/badge/SQL-0B3D2E?style=for-the-badge&logo=postgresql&logoColor=39D353" alt="SQL" /></td>
 </tr>
 <tr>
   <td><b>🧠 AI / Data</b></td>
-  <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=8" alt="PyTorch, scikit-learn" /> <img src="https://img.shields.io/badge/Transformers-0B3D2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face Transformers" /> <img src="https://img.shields.io/badge/XGBoost-0B3D2E?style=for-the-badge" alt="XGBoost" /> <img src="https://img.shields.io/badge/SHAP-0B3D2E?style=for-the-badge" alt="SHAP" /> <img src="https://img.shields.io/badge/Streamlit-0B3D2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" /></td>
+  <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&perline=8" alt="PyTorch, scikit-learn, OpenCV" /> <img src="https://img.shields.io/badge/Transformers-0B3D2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face Transformers" /> <img src="https://img.shields.io/badge/XGBoost-0B3D2E?style=for-the-badge" alt="XGBoost" /> <img src="https://img.shields.io/badge/SHAP-0B3D2E?style=for-the-badge" alt="SHAP" /> <img src="https://img.shields.io/badge/Streamlit-0B3D2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" /> <img src="https://img.shields.io/badge/ONNX%20Runtime-0B3D2E?style=for-the-badge" alt="ONNX Runtime" /></td>
 </tr>
 <tr>
   <td><b>🌐 Web / Backend</b></td>
@@ -278,7 +318,7 @@ flowchart LR
 </tr>
 <tr>
   <td><b>🗄️ Databases / Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vercel&perline=8" alt="PostgreSQL, MySQL, MongoDB, Git, GitHub, Vercel" /></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,vercel&perline=8" alt="PostgreSQL, MySQL, MongoDB, Git, GitHub, Docker, Vercel" /></td>
 </tr>
 </table>
 
@@ -320,7 +360,7 @@ flowchart LR
 <table>
 <tr><th align="left">Achievement</th><th align="left">Details</th></tr>
 <tr><td>🎓 <strong>B.Sc. in Computer Science and Engineering</strong></td><td>National Institute of Textile Engineering and Research (NITER), University of Dhaka</td></tr>
-<tr><td>📊 <strong>CGPA 3.76 / 4.00</strong></td><td>2nd in class</td></tr>
+<tr><td>📊 <strong>CGPA 3.76 / 4.00</strong></td><td>2nd in class · Highest semester GPA: 3.94 / 4.00</td></tr>
 <tr><td>🏆 <strong>4th Place — BAIC 2025</strong></td><td>Senior category</td></tr>
 <tr><td>🧪 <strong>Organizing Secretary</strong></td><td>NITER Science Society</td></tr>
 <tr><td>💻 <strong>Deputy Treasurer</strong></td><td>NITER Computer Club</td></tr>
@@ -347,7 +387,10 @@ Building reliable AI-powered applications, strengthening the fundamentals behind
 - [x] Ship full-stack systems across Python, JavaScript and PHP ecosystems
 - [x] Build a strong ML foundation through structured, project-backed coursework
 - [x] Deploy MindScope with interactive predictions and SHAP explanations
-- [ ] Explore contrastive learning in depth through end-to-end experiments
+- [x] Build and deploy Detective Rice! and Scarlet Dish
+- [x] Build standalone document-scanning and scheduling utilities
+- [x] Complete an initial GLoRIA implementation
+- [ ] Reproduce additional medical vision-language methods
 - [ ] Publish rigorous research on Contrastive Learning, Image Processing, and NLP
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:196C2E,100:39D353&height=2" width="100%" alt="" />
